@@ -1,2 +1,2 @@
 # bitscan-website
-a small website for my friend's tool called "bitscan".
+A small website for my friend's tool called "bitscan".
